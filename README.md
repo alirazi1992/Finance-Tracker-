@@ -8,8 +8,8 @@ Built with **.NET Framework 4.7.2**, **SQLite**, and **DataVisualization Charts*
 ## ✨ Features
 
 - **Add Transactions**
-    -Filter transations by date range.
-    - Display in a data grid.
+        -Filter transations by date range.
+        - Display in a data grid.
       
 - **Dashboard Anlaytics**
   -**Pie Chart**: Spending by category.
