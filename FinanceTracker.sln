@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36408.4 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinanceTracker", "FinanceTracker\FinanceTracker.csproj", "{853F4DA6-89B9-4FF9-B568-49657D7B474E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		X64|Any CPU = X64|Any CPU
+		X64|x64 = X64|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{853F4DA6-89B9-4FF9-B568-49657D7B474E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{853F4DA6-89B9-4FF9-B568-49657D7B474E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{853F4DA6-89B9-4FF9-B568-49657D7B474E}.Debug|x64.ActiveCfg = Debug|x64
+		{853F4DA6-89B9-4FF9-B568-49657D7B474E}.Debug|x64.Build.0 = Debug|x64
+		{853F4DA6-89B9-4FF9-B568-49657D7B474E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{853F4DA6-89B9-4FF9-B568-49657D7B474E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{853F4DA6-89B9-4FF9-B568-49657D7B474E}.Release|x64.ActiveCfg = Release|x64
+		{853F4DA6-89B9-4FF9-B568-49657D7B474E}.Release|x64.Build.0 = Release|x64
+		{853F4DA6-89B9-4FF9-B568-49657D7B474E}.X64|Any CPU.ActiveCfg = X64|Any CPU
+		{853F4DA6-89B9-4FF9-B568-49657D7B474E}.X64|Any CPU.Build.0 = X64|Any CPU
+		{853F4DA6-89B9-4FF9-B568-49657D7B474E}.X64|x64.ActiveCfg = X64|x64
+		{853F4DA6-89B9-4FF9-B568-49657D7B474E}.X64|x64.Build.0 = X64|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {75993212-82BE-45C1-B6A0-240638924BB0}
+	EndGlobalSection
+EndGlobal
