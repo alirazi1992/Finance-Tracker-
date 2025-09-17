@@ -12,9 +12,9 @@ Built with **.NET Framework 4.7.2**, **SQLite**, and **DataVisualization Charts*
         - Display in a data grid.
       
 - **Dashboard Anlaytics**
-  -**Pie Chart**: Spending by category.
-  -**Line Chart**: Spending over time.
-  -**Summary**: Total spending.
+          -**Pie Chart**: Spending by category.
+          -**Line Chart**: Spending over time.
+          -**Summary**: Total spending.
 
 -**Local Storage**
   uses SQLite database stored in the user's `%AppData%\FinanceTracker` folder. 
